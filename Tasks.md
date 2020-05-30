@@ -1,0 +1,1 @@
+WIP: Perceptual hash algorithm
